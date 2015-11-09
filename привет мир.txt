@@ -1,4 +1,5 @@
-print("hello world")
-print("hello Nataly")
-נדגאלרדנ
-jkbkjbnj
+print("hello world");
+print("hello Nataly");
+נדגאלרדנ;
+jkbkjbnj;
+sdbsdf;
